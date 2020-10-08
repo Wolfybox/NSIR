@@ -14,9 +14,12 @@ Additionally, we proposed two model variations by considering two real-world pan
 2. Quarantine with contact tracing at certain duration, where neighbors of an infectious agents being tested positive will be sent into finite-long quarantine. (usually 14 days)  
 The above two policies are also named as Reinforced Contact tracing and Quarantine. For implementation details, please see codes.  
 # Dependencies   
-|python|3.8|  
-|networkx|2.5|  
-|numpy|1.19.1|  
+|type|name|version|  
+|-----|-----|-----|  
+|os|Ubuntu or Windows|16.04(Ubuntu); Win10(Windows)|  
+|language|python|3.8|  
+|networktools|networkx|2.5|  
+|calculation|numpy|1.19.1|  
 # Usage  
 Run command in terminal:  
 ```shell  
