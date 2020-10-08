@@ -1,5 +1,7 @@
 # NSIR  
 An unofficial implementation of paper "Karaivanov, Alexander. (2020). A Social Network Model of COVID-19"  
+Paper Link: (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3584895)  
+
 # Note  
 This is a course project for HITSZ Modeling of Complex Networks Semester A 2020.   
 # Features  
