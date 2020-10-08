@@ -8,7 +8,7 @@ We have reproduced part of the results (or scenarios simulation) from the paper,
 2. Testing and Quarantine  
 3. Contact Tracing  
 4. Distancing  
-5. Lockdown  
+5. Lockdown
 Additionally, we proposed two model variations by considering two real-world pandemic policies in China:  
 1. Strict Contact Tracing, where all neighbors of an infectious agents will have to go through a test  
 2. Quarantine with contact tracing at certain duration, where neighbors of an infectious agents being tested positive will be sent into finite-long quarantine. (usually 14 days)  
